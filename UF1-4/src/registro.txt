@@ -1,0 +1,4 @@
+Hilo2 - numero: 3 - duracion: 1 ms - primo: true
+Hilo3 - numero: 7 - duracion: 1 ms - primo: true
+Hilo1 - numero: 1 - duracion: 1 ms - primo: false
+Hilo4 - numero: 12 - duracion: 1 ms - primo: false
