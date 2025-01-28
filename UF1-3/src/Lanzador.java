@@ -17,8 +17,8 @@ public class Lanzador {
             };
 
             // Configuramos los archivos de salida de los procesos
-            File salidaExamen1 = new File("src/examen1.txt");
-            File salidaExamen2 = new File("src/examen2.txt");
+            File salidaExamen1 = new File("src/resources/examen1.txt");
+            File salidaExamen2 = new File("src/resources/examen2.txt");
 
             // Lanzar el primer proceso
             Process proceso1 = new ProcessBuilder(comandoExamen1)

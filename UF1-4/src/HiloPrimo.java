@@ -38,7 +38,7 @@ public class HiloPrimo implements Runnable {
         System.out.println(salida);
 
         if (guardado) {
-            String filePath = "src/registro.txt";
+            String filePath = "src/resources/registro.txt";
             try (PrintWriter pw = new PrintWriter(new FileWriter(filePath, true))) {
                 pw.println(salida);
             } catch (IOException e) {
