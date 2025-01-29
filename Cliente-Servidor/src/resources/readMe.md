@@ -1,0 +1,1 @@
+Programa para aprender y practicar el funcionamiento de estructuras Cliente-Servidor en Java.
