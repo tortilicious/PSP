@@ -3,7 +3,6 @@ package red;
 import interfaz.BibliotecaCLI;
 import modelo.Libro;
 import servicio.BibliotecaInterfaceRMI;
-import servicio.BibliotecaRemota;
 
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
